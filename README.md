@@ -10,4 +10,8 @@
 
 
 3. Task-1
-4. <img width="1275" height="795" alt="image" src="https://github.com/user-attachments/assets/1181939b-99d0-45b9-98e1-68aad2287669" />
+<img width="1275" height="795" alt="image" src="https://github.com/user-attachments/assets/1181939b-99d0-45b9-98e1-68aad2287669" />
+
+
+4. Task-2
+<img width="1275" height="795" alt="image" src="https://github.com/user-attachments/assets/7606ac78-e7c6-44a7-baf8-b8865ed65099" />
