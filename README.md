@@ -1,21 +1,3 @@
 # Week2Day8
 
-1. Run only the python code and observe journalctl
-<img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/f8ac98e7-68e6-4efe-9c43-04d99cdd7fd1" />
-
-
-
-2. Run python code inside container and observe journalctl
-<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/17271a48-06b1-4bae-9cae-2e1b82b64667" />
-
-
-3. Task-1
-<img width="1275" height="795" alt="image" src="https://github.com/user-attachments/assets/1181939b-99d0-45b9-98e1-68aad2287669" />
-
-
-4. Task-2
-<img width="1275" height="795" alt="image" src="https://github.com/user-attachments/assets/7606ac78-e7c6-44a7-baf8-b8865ed65099" />
-
-5. Task-3
-<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/1d82928e-de11-4d62-b11c-b09b5450edad" />
-
+All Tasks of Week 2 Recorded Here
