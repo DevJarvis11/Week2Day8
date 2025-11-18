@@ -7,3 +7,7 @@
 
 2. Run python code inside container and observe journalctl
 <img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/17271a48-06b1-4bae-9cae-2e1b82b64667" />
+
+
+3. Task-1
+4. <img width="1275" height="795" alt="image" src="https://github.com/user-attachments/assets/1181939b-99d0-45b9-98e1-68aad2287669" />
